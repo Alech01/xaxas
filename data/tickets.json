@@ -1,0 +1,23 @@
+{
+  "1540301544430374996": {
+    "userId": "1288704334925926545",
+    "channelId": "1540301544430374996",
+    "channelName": "ticket-9b7p-1",
+    "createdAt": 1787306905335,
+    "lastActivity": 1787306919300,
+    "warned": false,
+    "warnedAt": null,
+    "closed": true
+  },
+  "1540316040880328845": {
+    "userId": "495989660422504470",
+    "channelId": "1540316040880328845",
+    "channelName": "ticket-0002",
+    "number": "0002",
+    "createdAt": 1787310361576,
+    "lastActivity": 1787310630959,
+    "warned": false,
+    "warnedAt": null,
+    "closed": false
+  }
+}
